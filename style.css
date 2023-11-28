@@ -1,0 +1,37 @@
+body{
+  background-color: #E4DCCF;
+}
+hr{
+  border-style:none ;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 3%;
+}
+h1{
+  color:#66BFBF;
+  font-size: 56px;
+}
+h3{
+  color:#66BFBF;
+}
+img{
+  background-color: red;
+}
+.charan{
+  background-color: red;
+  border-radius: 30%
+}
+.broc:hover{
+  background-color: green;
+  border-radius: 30%;
+}
+#hobbies{
+  color: green;
+}
+#food{
+  color: white;
+}
+.ed{
+  color: red;
+}
